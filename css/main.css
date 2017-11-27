@@ -1,0 +1,73 @@
+/*home page*/
+	/*Nav*/
+.nav {
+	background-color: #387260;
+}
+
+.nav a {
+	color: white;
+	font-family: 'Yatra One', cursive;
+	font-size: 25px;
+}
+
+/*jumbotron*/
+#home {
+	background-image: url(../img/Coffee-Shop.jpg);
+	background-color: #387260;
+	background-repeat: no-repeat;
+	height: 800px;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+	background-size: cover;
+}
+
+
+#home h1, p {
+	color:  #387260;
+	background-color: white;
+	margin-top: 20px;
+	padding: 10px 10px 10px 10px;
+}
+
+#home h1 {
+	font-family: 'Pacifico', cursive;
+}
+
+#home p {
+	font-family: 'Yatra One', cursive;
+}
+
+/*body*/
+body {
+	background-color:  #387260;
+}
+
+/*about page*/
+#about {
+	font-family: 'Pacifico', cursive;
+	color: white;
+	text-align: center;
+	border: solid white;
+}
+.col-sm {
+	color: #387260;
+	background-color: white;
+	padding-top: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+	padding-bottom: 10px;
+}
+/*footer*/
+footer p {
+	color: white;
+	background-color: #387260;
+	margin: auto;
+	text-align: center;
+	font-family: 'Pacifico', cursive;
+	font-size: 20px;
+}
+
+/*hours page*/
+#hours p{
+	font-family: 'Yatra One', cursive;
+}
